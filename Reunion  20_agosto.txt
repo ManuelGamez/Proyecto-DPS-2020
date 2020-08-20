@@ -1,0 +1,36 @@
+Repositorio trello --> Gaby
+Repositorio Git --> Manuel.
+
+Para hoy Gaby mandara lo trello
+Manuel creara un repositorio git
+
+Erika 	2 	  		
+Lisbeth 2	
+Gaby  	2
+Manuel 	2     
+Gerardo (la mayoria =2)
+
+Backend --> Framework = Laravel
+Gestor de Base datos = MySql
+Frontend --> Framework	= 
+
+Gaby Angular 
+Manuel Angular
+
+Erika 	Angular 
+Lisbeth	Angular
+
+Gerardo (la mayoria)
+
+Fecha de reunion Miercoles: 3:30pm
+
+Temas a tratar:
+- La logica del programa:
+	*Funcionalidades
+	*Limitaciones
+	*# Pantallas
+	*Ejemplo de diseños del sistema
+	conforme a plantillas de ejemplo 
+	traer c/u. 
+	*Dividir la investigacion de las
+	herramientas a utilizar.
