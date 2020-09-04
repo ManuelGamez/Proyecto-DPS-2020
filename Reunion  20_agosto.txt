@@ -34,3 +34,21 @@ Temas a tratar:
 	traer c/u. 
 	*Dividir la investigacion de las
 	herramientas a utilizar.
+
+
+Reunion 
+Se definio plantilla: Listo
+Funcionalidad:
+	Expediente del animal
+	Catalogo de los servicios
+	Registros de los empleados
+	Catalogo de productos y medicinas
+	Facturacion.
+	Registro de cita.
+	Pantalla inicial
+Limitaciones:
+	No va a ver compras internas del sistema.
+
+Numeros de pantalla 
+	#7
+	
