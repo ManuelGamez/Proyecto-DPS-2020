@@ -1,0 +1,31 @@
+Agenda:
+Se creara una rama Por cada participante
+Formato de la Rama:
+NombreAlumnoDesarrollo
+Se tendra una de pruebas antes de unir todo a master
+Estructura:
+Ramapruebas:
+NOTA:
+
+Gabriela subira en un rar el codigo de la plantilla
+Manuel modificara la barra lateral de la plantilla de gaby
+
+Encargados    Pantallas para desarrollo frontend
+
+Erika         .Registro de Mascotas
+Gaby          .Registro de empleados
+Lisbeth       .Registro de Citas
+Gerardo       .Catalogo de productos
+Manuel        .Facturacion y Catologo de Servicio
+
+Investar sobre referenciar las imagenes:
+Erika. (Proyectos Individuales).
+
+Investigar sobre direccionar Paginas:
+Lisbeth, Gerardo (Proyectos Individuales).
+
+Investigar Conexion de Angular con Laravel:
+Gabriela,  Manuel (Proyectos Individuales).
+
+Fecha Final de la Investigacion:
+Viernes 11/de septiembre /2020
